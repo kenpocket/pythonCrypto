@@ -21,7 +21,7 @@ g_key = x.publickey().export_key()  # 公钥
 # 实现RSA 非对称加解密
 my_private_key = s_key  # 私钥
 my_public_key = g_key  # 公钥
-
+print(my_public_key)
 '''
 作用：对信息进行公钥加密，私钥解密。
 应用场景：
