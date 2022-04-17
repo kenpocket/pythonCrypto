@@ -1,0 +1,7 @@
+{
+  "name": "pythonCrypto",
+  "version": "1.0.0",
+  "dependencies": {
+    "@antv/g6": "^4.6.4"
+  }
+}
